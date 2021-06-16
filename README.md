@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6a44278f-2cd7-43f3-80d4-6b884094c9ef/deploy-status)](https://app.netlify.com/sites/thecoop/deploys)
+
 # coopwebsite
 
 ## Build Setup
